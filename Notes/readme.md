@@ -7,3 +7,5 @@ Este repositorio contiene una colección de apuntes y libros relacionados con la
 A continuación se presenta una lista de los apuntes o libros que se incluyen en este repositorio:
 
 - Spark
+- Data_Engineering I, II & III
+- Data Warehouse
